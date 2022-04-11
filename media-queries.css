@@ -1,5 +1,6 @@
+
 *{
-    border: 1px solid red;
+    /*border: 1px solid red;*/
     margin: 0;
     box-sizing: border-box;
 }
@@ -52,6 +53,7 @@ h2{
 .sub-section{
     flex-basis: 30%;
     margin: 25px 0;
+    font-style: italic;
 
 }
 footer{
